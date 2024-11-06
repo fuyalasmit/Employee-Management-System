@@ -35,7 +35,7 @@ This is a simple Employee Management application built with **React**. It allows
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/employee-management-app.git
+   git clone `https://github.com/your-username/employee-management-app.git`
    cd employee-management-app
    ```
 
@@ -50,7 +50,7 @@ This is a simple Employee Management application built with **React**. It allows
    ```
 
 4. **Open in browser**:
-   Navigate to `http://localhost:3000` (or the specified port) to view the app.
+   Navigate to `http://localhost:5173` (or the specified port) to view the app.
 
 
 ## Usage
