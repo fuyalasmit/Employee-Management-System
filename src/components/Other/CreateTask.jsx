@@ -37,11 +37,11 @@ const CreateTask = () => {
         setuserData(data)
         // localStorage.setItem("employees", JSON.stringify(data))
 
-        // settaskTitle("")
-        // settaskDescription("")
-        // setTaskDate("")
-        // setAssignTo("")
-        // setCategory("")
+        settaskTitle("")
+        settaskDescription("")
+        setTaskDate("")
+        setAssignTo("")
+        setCategory("")
 
 
     }
