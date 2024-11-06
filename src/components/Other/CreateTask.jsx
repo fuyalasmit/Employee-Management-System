@@ -27,7 +27,7 @@ const CreateTask = () => {
         data.forEach((value) => {
             if (assignTo == value.firstName) {
                 value.tasks.push(Task)
-                value.taskCounts.Task = value.taskCounts.Task + 1;
+                // value.taskCounts.Task = value.taskCounts.Task + 1;
  
                 // console.log(value.tasks);
 

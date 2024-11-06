@@ -7,10 +7,8 @@ This is a simple Employee Management application built with **React**. It allows
 - [Features](#features)
 - [Technologies](#technologies)
 - [Setup Instructions](#setup-instructions)
-- [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Limitations](#limitations)
-- [Future Improvements](#future-improvements)
 
 ---
 

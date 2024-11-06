@@ -13,7 +13,7 @@ const Header = (props) => {
 
   return (
     <div className='flex flex-row justify-between ' >
-      <h1 className='text-2xl font-medium' >Hello <span className='text-3xl font-semibold' >username 👋</span>   </h1>
+      <h1 className='text-2xl font-medium' >Hello <span className='text-3xl font-semibold' > 👋</span>   </h1>
       <button onClick={logoutFunction} className='bg-red-500 text-white text-lg font-medium px-4 py2 rounded-md' >Log Out</button>
     </div>
   )
